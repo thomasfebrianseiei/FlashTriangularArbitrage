@@ -1,6 +1,6 @@
 # FlashTriangularArbitrage
 FlashTriangularArbitrage Flow
-
+```
 sequenceDiagram
     participant User
     participant Contract as FlashTriangularArbitrage
